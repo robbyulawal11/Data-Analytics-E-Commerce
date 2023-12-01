@@ -12,7 +12,7 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 
-## url
+## Tautan Dashboard
 ```
-www
+https://data-scientist-e-commerce-robo.streamlit.app/
 ```
